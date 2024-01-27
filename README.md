@@ -1,0 +1,2 @@
+# pocitadlo
+Počítadlo absence
